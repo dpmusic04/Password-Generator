@@ -1,2 +1,2 @@
 # Password-Generator
-Created a python calculator
+Created a password generator using python 
